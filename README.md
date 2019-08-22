@@ -12,4 +12,4 @@ A code in cpp that would validate a .html to look for error
 * Check the file based of the grammer of HTML
 
 ### Important Note
-*Some common tags are added in the global array to validate the file for your own file add necessary tags required to process and vaildate your own file*
+*Some common tags are added in the global array TAGS to validate the file, for your own file add necessary tags required to process and vaildate your own file* **(add tags in validator.cpp in TAGS array)**

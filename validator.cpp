@@ -294,6 +294,7 @@ void validator(ifstream& file, stack<string>& tag) {
 	else {
 		throw runtime_error("Cannot open file");
 	}
+	file.close();
 }
 
 //main method
